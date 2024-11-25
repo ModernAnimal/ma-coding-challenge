@@ -1,0 +1,11 @@
+.patient-directory {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+h1 {
+    color: black;
+    margin: 0px;
+}
