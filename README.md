@@ -30,7 +30,7 @@ This `PatientDirectory` component is a searchable and filterable directory to qu
 This is a read-only file where our patient data is stored. It conceptually represents our database.
 
 A patient object has the following fields:
-`name: string;`
-`species: string | null;`
-`age: string;`
-`ownerName: string;`
+- `name: string;`
+- `species: string | null;`
+- `age: string;`
+- `ownerName: string;`
