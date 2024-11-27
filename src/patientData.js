@@ -24,7 +24,7 @@ export const patients = [{
     species: 'dog',
     breed: 'Great Dane',
     age: 34,
-    ownerName: 'Shaggy'
+    ownerName: 'Norville Rogers'
 }, {
     name: 'Tom',
     species: 'cat',
@@ -54,5 +54,5 @@ export const patients = [{
     species: 'dog',
     breed: 'Labrador',
     age: 42,
-    ownerName: 'Griffin'
+    ownerName: 'Peter Griffin'
 }];
