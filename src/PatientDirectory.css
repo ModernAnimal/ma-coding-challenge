@@ -6,6 +6,12 @@
 }
 
 h1 {
-    color: black;
+    color: white;
     margin: 0px;
 }
+
+@media (prefers-color-scheme: light) {
+    h1 {
+        color: black;
+    }
+  }

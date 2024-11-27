@@ -14,7 +14,11 @@ const PatientProfile = ({ patient }) => {
             <div className="patient-body">
                 <div className="patient-information">
                     <p className="bold">{'Species: '}</p>
-                    <p>{patient.species.toUpperCase()}</p>
+                    <p>{patient.species}</p>
+                </div>
+                <div className="patient-information">
+                    <p className="bold">{'Breed: '}</p>
+                    <p>{patient.breed.toUpperCase()}</p>
                 </div>
                 <div className="patient-information">
                     <p className="bold">{'Age: '}</p>

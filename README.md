@@ -31,6 +31,7 @@ This is a read-only file where our patient data is stored. It conceptually repre
 
 A patient object has the following fields:
 - `name: string;`
-- `species: string | null;`
+- `species: string;`
+- `breed: string | null;`
 - `age: string;`
 - `ownerName: string;`
