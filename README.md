@@ -7,7 +7,7 @@ If you're unable to clone the repository, the fallback option is to download the
 - Click the green "Code" button.
 - Select "Download ZIP."
 - Unzip the ZIP file.
-- In terminal, enter the directory with `cd ma-coding-challenge-main`
+- In terminal, enter the directory with `cd ma-coding-challenge-main`.
 
 2. Enter the directory and install the necessary packages.
 ```
